@@ -1,0 +1,11 @@
+[package]
+name = "rust_stringz"
+version = "0.1.0"
+edition = "2021"
+authors = ["Vasilis Kortsimelidis <vaskort@gmail.com>"]
+description = "A simple string manipulation library for Rust that you should probably don't need. It's just for learning purposes."
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
