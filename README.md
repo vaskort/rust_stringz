@@ -1,5 +1,4 @@
 # rust_stringz
-# rust_stringz
 
 Hello, fellow Rustaceans! Welcome to `rust_stringz`! 😃
 
