@@ -15,4 +15,7 @@
 
 ## [Unreleased]
 
+- Restructure the library to make it more modular.
+- Added a new function, `is_palindrome`, to check if a string is a palindrome.
+
 ### Planned for future releases
