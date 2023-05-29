@@ -3,7 +3,7 @@ pub fn to_uppercase(s: &str) -> String {
 }
 
 mod tests {
-    use super::*;
+    use super::to_uppercase;
 
     #[test]
     fn test_all_lowercase() {

@@ -20,7 +20,7 @@ pub fn is_palindrome(s: &str) -> bool {
 }
 
 mod tests {
-    use super::*;
+    use super::is_palindrome;
 
     #[test]
     fn test_small_string() {
