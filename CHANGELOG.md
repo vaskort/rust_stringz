@@ -13,9 +13,17 @@
 
 - Initial release with `to_lowercase` and `to_uppercase` functions.
 
-## [Unreleased]
+## [1.0.0] - 2023-05-29
 
-- Restructure the library to make it more modular.
+### Added in 1.0.0
+
 - Added a new function, `is_palindrome`, to check if a string is a palindrome.
+
+### Changed in 1.0.0
+
+- Restructured the library to make it more modular.
+- Renamed count_occurences to count_occurrences.
+
+## [Unreleased]
 
 ### Planned for future releases

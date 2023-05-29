@@ -1,6 +1,6 @@
 [package]
 name = "rust_stringz"
-version = "0.2.0"
+version = "1.0.0"
 edition = "2021"
 authors = ["Vasilis Kortsimelidis <vaskort@gmail.com>"]
 description = "A simple string manipulation library for Rust that you should probably don't need. It's just for learning purposes."
